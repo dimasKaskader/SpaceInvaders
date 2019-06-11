@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 925ca0d543d9d5544a33ba79c23c550a
+timeCreated: 1488456253
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Reduction
+  fontNames:
+  - Reduction
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
